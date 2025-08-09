@@ -38,7 +38,7 @@
   class Warrior {
     constructor(){
       this.w = 32; this.h = 40;
-      this.x = 80; this.y = H/2 - this.h/2;
+      this.x = 75; this.y = H/2 - this.h/2;
       this.speed = 220; // px/sec
       this.maxHp = 100; this.hp = this.maxHp;
       this.attackCooldown = 0; // seconds
