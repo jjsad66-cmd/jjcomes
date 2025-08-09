@@ -2,7 +2,7 @@
 <html lang="jap">
 <head>
 <meta charset="utf-8" />
-<title>Warrior vs The Evil Presence</title>
+<title>Warrior and The Evil Presence</title>
 <style>
   html,body{height:100%;margin:0;background:#0b0b12;color:#ddd;font-family:system-ui,Segoe UI,Roboto,Arial;}
   #game {display:block;margin:18px auto;border:6px solid #1f2937;background:#06060a; image-rendering: pixelated;}
