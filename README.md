@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="twi">
+<html lang="sdc">
 <head>
 <meta charset="utf-8" />
 <title>Warrior and The Evil Presence</title>
