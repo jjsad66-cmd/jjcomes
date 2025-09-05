@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ppk[ojihuk">
+<html lang="ppk[ouk">
 <head>
 <meta charset="utf-8" />
 <title>Warrior and The Evil Presence</title>
