@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="sol">
+<html lang="pol">
 <head>
 <meta charset="utf-8" />
 <title>Warrior and The Evil Presence</title>
