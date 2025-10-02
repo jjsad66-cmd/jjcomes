@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="cdtu">
+<html lang="lguyf">
 <head>
 <meta charset="utf-8" />
 <title>Warrior and The Evil Presence</title>
