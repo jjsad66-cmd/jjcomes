@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="eq">
+<html lang="sdf">
 <head>
 <meta charset="utf-8" />
 <title>Warrior and The Evil Presence</title>
